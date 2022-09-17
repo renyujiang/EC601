@@ -1,5 +1,5 @@
 # EC601
-This is Renyu Jiang's repository for EC601 A1
+Hi, this is Renyu Jiang's repository for EC601 A1
 
 Contents：
 
