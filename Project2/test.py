@@ -1,10 +1,10 @@
 import tweepy
 
-api_key = "n73JX55UFog4RcU517YdFuqHr"
-api_secret = "zEsYEc8ll1JlVyyGs4Vg2BBAL23tS85qnPvHMWhmeLzBDbhpqi"
-access_token = "1575336781934993410-PVWukgkT8F0DWd8s0f0IpgthGYnV3g"
-access_token_secret = "evA10qj4pHUnu7LXbdxScHM6gN8WxmLJWkmrEi5ODGjCa"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAPVthgEAAAAAD75NfB91Zo8zMENP26kanrrwTaE%3DpihnW7QZXLWHYfiAa1ejlPsugCOYu3x0l7484jOpDp1WDl8hze"
+api_key = "xxxxxxxxxxxxxxxxxxxxxxx"
+api_secret = "xxxxxxxxxxxxxxxxxxxxxxx"
+access_token = "xxxxxxxxxxxxxxxxxxxxxxx"
+access_token_secret = "xxxxxxxxxxxxxxxxxxxxxxx"
+bearer_token = "xxxxxxxxxxxxxxxxxxxxxxx"
 
 client = tweepy.Client(consumer_key=api_key, consumer_secret=api_secret, access_token=access_token,
                        access_token_secret=access_token_secret, bearer_token=bearer_token, return_type=dict)
