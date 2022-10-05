@@ -10,7 +10,7 @@ Contents：
 
 2 Project 2
 
-	2.1 EC601_P2.py
+     2.1 EC601_P2.py
      2.2 Project2_image1.png
      2.3 Project2_image2.png
      2.4 Project2_image3.png
