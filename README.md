@@ -15,7 +15,8 @@ Contents：
      2.3 Project2_image2.png
      2.4 Project2_image3.png
      2.5 graph_1.png
-     2.6 test.py
+     2.6 twitter_api_test.py
+     2.7 botometer_api_test.py
 
 3 Project 3
 
