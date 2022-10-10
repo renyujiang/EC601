@@ -1,5 +1,5 @@
 # EC601
-Hi, this is Renyu Jiang's repository for EC601 A1 2022
+Hi, this is Renyu Jiang's repository for EC601 A1 in 2022
 
 ## Contents：
 
@@ -17,6 +17,7 @@ Hi, this is Renyu Jiang's repository for EC601 A1 2022
      2.5 graph_1.png
      2.6 twitter_api_test.py
      2.7 botometer_api_test.py
+     2.8 User stories & MVP.docx
 
 ### 3 Project 3
 
