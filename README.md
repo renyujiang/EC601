@@ -5,11 +5,11 @@ Hi, this is Renyu Jiang's repository for EC601 A1 in 2022
 
 ### 1 Project 1 
 
-Project 1 finished.
+      Project 1 finished.
 
 ### 2 Project 2
 
-Project 2 finished.
+      Project 2 finished.
 
 ### 3 Project 3
 
