@@ -16,3 +16,4 @@ Hi, this is Renyu Jiang's repository for EC601 A1 in 2022
       Project 3 finished Nov 14, 2022
 
 ### 4 Project 4
+      Project 4 finished Dec 7, 2022
